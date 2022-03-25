@@ -1,0 +1,26 @@
+body {
+	background-color: rgb(0, 128, 128);
+}
+
+p {
+	background-color: #fbf8ac;
+	font-weight: bold;
+}
+
+main {
+	text-align: center;
+}
+
+th {
+	text-align: center;
+}
+
+.mdl-layout-title {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #00CC66;
+	font-weight: bold;
+}
+
+
