@@ -1,6 +1,6 @@
 // This file contains the JS functions for index.html
 
-'use strict'
+'use strict';
 /**
  * This function calculates the area of a triangle.
  */
